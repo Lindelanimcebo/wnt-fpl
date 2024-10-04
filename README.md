@@ -1,6 +1,6 @@
 # WNT FPL Stats
 
-Generating cool stats and dashboard for our FPL league, WNT.
+Generating cool stats and dashboards for our FPL league, WNT.
 
 ## Installation
 
@@ -26,3 +26,7 @@ python3 driver.py
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Roadmap
+
+See [ROADMAP.md](ROADMAP.md)
